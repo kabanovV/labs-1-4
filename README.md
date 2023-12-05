@@ -11,13 +11,15 @@ ___Лабораторна робота № 1: «Ініціалізація се�
 
 Визначте графічні примітиви: трикутник 
 
-![Screenshot_21](https://github.com/kabanovV/lab1-4/assets/152945125/a4b1fd09-d254-4afe-bc70-8900a2d9199f)
+![Screenshot_21](https://github.com/kabanovV/labs-1-4/assets/152945125/68719d39-a7fb-4892-b2d7-a438dd8ffa56)
+
 
 ___Лабораторна робота № 2: «Визначення графічних об’єктів»___
 
 Позиція камери до:
 
-![Screenshot_21](https://github.com/kabanovV/lab1-4/assets/152945125/2069ad1a-bb26-4e14-ac1d-f6cc98f9c74a)
+![Screenshot_21](https://github.com/kabanovV/labs-1-4/assets/152945125/fa5839bc-8083-4487-bba6-411438a3e00a)
+
 
 Код:
 
@@ -53,7 +55,8 @@ override fun onDrawFrame(gl: GL10) {
 
 Позиція камери після:
 
-![Screenshot_29](https://github.com/kabanovV/lab1-4/assets/152945125/9f278ded-226c-4928-a246-ae2f11007abe)
+![Screenshot_29](https://github.com/kabanovV/labs-1-4/assets/152945125/eea33604-9d4d-4933-aeaa-1a86f68f416a)
+
 
 
 __Лабораторна робота № 3: «Обертання зображення»__
@@ -113,6 +116,7 @@ override fun onTouchEvent(e: MotionEvent): Boolean {
 
 Рух камери за дотиком
 
+![Screenshot_23](https://github.com/kabanovV/labs-1-4/assets/152945125/cd121c1b-e6b6-41ba-b95f-3727d51aa46f)
 
 
-![Screenshot_23](https://github.com/kabanovV/lab1-4/assets/152945125/a214007e-ea6d-4c54-a9b5-a3f1abf98a87)
+
